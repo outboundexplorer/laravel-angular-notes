@@ -6,7 +6,8 @@ http://blog.carbonfive.com/2014/05/05/roll-your-own-asset-pipeline-with-gulp/
 
 https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917
 
-Create a package.json file in the public folder (can also just create empty json object)
+Create a package.json file in the public-root folder of the application (can also just create
+empty json object)
 
 ```json
 {
