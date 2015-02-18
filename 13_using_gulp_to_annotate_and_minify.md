@@ -12,10 +12,12 @@ Create a package.json file in the public folder (can also just create empty json
 }
 ```
 
+```
 public> npm install --global gulp
 public> npm install --save-dev gulp
 public> npm install --save-dev gulp-ng-annotate
 public> npm install --save-dev gulp-uglify
+```
 
 Our `package.json` file should look like this now.
 
@@ -59,6 +61,7 @@ gulp.task('minify', function(){
 We can perform the relevant actions with the following commands (note the commands must be carried out in
 the following order - this can easily be improved upon):
 
+```
 public>gulp annotate
 public>gulp minify
-
+```
