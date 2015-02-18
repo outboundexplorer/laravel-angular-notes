@@ -1,19 +1,16 @@
 ##Tab and tabgroup directive for displaying different information
 
+*Using `scope:{ item: "="}` within a directive to improve decoupling
+*Creating a tabs directive to create simple navigation for displaying different information
+*Creating a tabgroup directive to create a simple navigation
+*Using angular.forEach() and angular.equals() to check for active tab
+
+
+
 http://plnkr.co/edit/CmyT5C?p=preview
 
 https://egghead.io/lessons/angularjs-codeschool-refactor-reusable-directives-part-1-2
-
 https://egghead.io/lessons/angularjs-codeschool-refactor-flexible-directives-part-2-2
-
-* Using `scope:{ item: "="}` within a directive to improve decoupling
-* Creating a tabs directive to create simple navigation for displaying different information
-* Creating a tabgroup directive to create a simple navigation
-* Using angular.forEach() and angular.equals() to check for active tab
-
-
-
-
 
 
 
