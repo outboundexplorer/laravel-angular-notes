@@ -36,7 +36,7 @@ https://egghead.io/lessons/angularjs-introduction-to-ng-messages-for-angularjs
     <!-- Using ng-messages -->
     <form name="myForm">
         <input type="email" name="myField" ng-model="field" required minlength="5" />
-        <div ng-messages="myForm.myField.$error" ng-messages-multiple>
+        <div ng-messages="myForm.myField.$error">
             <div ng-message="required">This field is required</div>
             <div ng-message="minlength">Input too short</div>
             <div ng-message="email">This field must be an email</div>
