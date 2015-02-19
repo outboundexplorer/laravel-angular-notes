@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/17_using_ng-messages_to_display_$error_messages.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\07_$q.all()_demo_for_retrieving_github_information.md" afterPath="$PROJECT_DIR$/AngularJS/07_$q.all()_demo_for_retrieving_github_information.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\08_tab_and_tabgroup_directive_for_displaying_different_information.md" afterPath="$PROJECT_DIR$/AngularJS/08_tab_and_tabgroup_directive_for_displaying_different_information.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\09_ui_router_app_with_nested_views_and_multiple_injected_modules.md" afterPath="$PROJECT_DIR$/AngularJS/09_ui_router_app_with_nested_views_and_multiple_injected_modules.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\10_caching_with_$http.md" afterPath="$PROJECT_DIR$/AngularJS/10_caching_with_$http.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\11_ui_router_abstract_states.md" afterPath="$PROJECT_DIR$/AngularJS/11_ui_router_abstract_states.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\12_delaying_filter_response_when_searching_through_results.md" afterPath="$PROJECT_DIR$/AngularJS/12_delaying_filter_response_when_searching_through_results.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\13_using_gulp_to_annotate_and_minify.md" afterPath="$PROJECT_DIR$/AngularJS/13_using_gulp_to_annotate_and_minify.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\14_using_interceptors_to_deal_with_$http_requests.md" afterPath="$PROJECT_DIR$/AngularJS/14_using_interceptors_to_deal_with_$http_requests.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\15_using_ocLazyLoad_with_ui_router.md" afterPath="$PROJECT_DIR$/AngularJS/15_using_ocLazyLoad_with_ui_router.md" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\16_comparing_$scope.$watch_to_$scope.$watchCollection.md" afterPath="$PROJECT_DIR$/AngularJS/16_comparing_$scope.$watch_to_$scope.$watchCollection.md" />
-    </list>
+    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="" />
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
