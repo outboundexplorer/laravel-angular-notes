@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md" afterPath="$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15_using_ocLazyLoad_with_ui_router.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,14 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14_using_interceptors_to_deal_with_$http_requests.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14_using_interceptors_to_deal_with_$http_requests.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md">
           <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88465977" vertical-offset="733" max-vertical-offset="1820">
+            <state vertical-scroll-proportion="-27.392857" vertical-offset="733" max-vertical-offset="1820">
               <caret line="75" column="42" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15_using_ocLazyLoad_with_ui_router.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15_using_ocLazyLoad_with_ui_router.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95530725" vertical-offset="865" max-vertical-offset="1840">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/13_using_gulp_to_annotate_and_minify.md" />
         <option value="$PROJECT_DIR$/q_all()_demo_for_retrieving_github_information.md" />
         <option value="$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md" />
+        <option value="$PROJECT_DIR$/15_using_ocLazyLoad_with_ui_router.md" />
       </list>
     </option>
   </component>
@@ -279,8 +291,16 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88465977" vertical-offset="733" max-vertical-offset="1820">
+        <state vertical-scroll-proportion="-27.392857" vertical-offset="733" max-vertical-offset="1820">
           <caret line="75" column="42" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_using_ocLazyLoad_with_ui_router.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95530725" vertical-offset="865" max-vertical-offset="1840">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
         </state>
       </provider>
