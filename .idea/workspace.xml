@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="DELETED" beforePath="H:\Resources\GitHub\laravel-angular-notes\$q.all()_can_this_be_a_file_name.md" afterPath="" />
-      <change type="DELETED" beforePath="H:\Resources\GitHub\laravel-angular-notes\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="H:\Resources\GitHub\laravel-angular-notes\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="H:\Resources\GitHub\laravel-angular-notes\q_all()_demo_for_retrieving_github_information.md" afterPath="$PROJECT_DIR$/07_$q.all()_demo_for_retrieving_github_information.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md" />
+      <change type="DELETED" beforePath="H:\Resources\GitHub\laravel-angular-notes\angularjs\this_is_ a_new_test_file.md" afterPath="" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +41,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07_$q.all()_demo_for_retrieving_github_information.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07_$q.all()_demo_for_retrieving_github_information.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_$q.all()_demo_for_retrieving_github_information.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40223464" vertical-offset="0" max-vertical-offset="4400">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4400">
               <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_using_interceptors_to_deal_with_$http_requests.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -259,8 +268,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07_$q.all()_demo_for_retrieving_github_information.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40223464" vertical-offset="0" max-vertical-offset="4400">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4400">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_using_interceptors_to_deal_with_$http_requests.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
