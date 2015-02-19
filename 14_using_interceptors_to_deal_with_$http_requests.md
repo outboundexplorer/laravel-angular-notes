@@ -62,6 +62,8 @@ login page.
 
             response: function (result) {
                 console.log('Repos:');
+
+                // modify the $http response data
                 result.data.splice(0, 10).forEach(function (repo) {
                     console.log(repo.name);
                 })
@@ -70,6 +72,8 @@ login page.
 
             responseError: function (rejection) {
                 console.log('Failed with', rejection.status, 'status');
+
+                // respond to error status
                 if (rejection.status == 403) {
                     $location.url('/login');
                 }
