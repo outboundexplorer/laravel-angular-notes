@@ -1,4 +1,4 @@
-##using ng-messages-include to use a common error message template
+##using ng-messages-include with error message template
 * using script tags to create an error message template
 * overriding default error message
 * reusing ng-messages
