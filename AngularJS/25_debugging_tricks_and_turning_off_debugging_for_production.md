@@ -14,21 +14,21 @@ When we select an element in ChomeDevTools and then go into the console:
 ```
 
 ####To get angular element
-```bash
+```shell
 > angular.element($0)
 
 < [ <div class="ng-binding">hello</div>]
 ```
 
 ####To get scope on an angular element
-```console
+```shell
 > angular.element($0).scope()
 
 < {$id: 2, $$childTail: null, $$childHead: null, $prevSibling: null, $$nextSibling: null...}
 ```
 
 ####To get the data bindings on an angular element
-```console
+```shell
 > angular.element($0).data()
 
 <  Object {$binding: Array[1]}
