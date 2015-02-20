@@ -63,4 +63,4 @@ https://egghead.io/lessons/angularjs-reusing-and-overriding-ng-messages
 ___
 
 related notes:
-* [using ng-modules to display $error messages](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/17_using_ng-messages_to_display_%24error_messages.md)
+* [using ng-modules to display $error messages](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/17_using_ng-messages_to_display_%24error_messages.md) 
