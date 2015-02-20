@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/24_using_bindToController_when_using_isolated_scope.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/25_debugging_tricks_and_turning_off_debugging_for_production.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
