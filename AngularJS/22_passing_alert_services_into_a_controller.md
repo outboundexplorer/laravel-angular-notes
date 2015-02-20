@@ -72,3 +72,8 @@ https://egghead.io/lessons/angularjs-using-services-in-angular-directives
     }
 })();
 ```
+
+___
+
+Related notes:
+* [using a service to communicate between controllers and directives](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md)
