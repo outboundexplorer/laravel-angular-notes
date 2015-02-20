@@ -69,4 +69,5 @@ required, then the div can be changed as follows `<div ng-messages="myForm.myFie
 
 ___
 
-extend: [using ng-modules-includes with error message template](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/18_using_ng-modules_includes_with_error_message_template.md)
+related: 
+* [using ng-modules-includes with error message template](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/18_using_ng-modules_includes_with_error_message_template.md)
