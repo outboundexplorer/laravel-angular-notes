@@ -7,14 +7,14 @@
 When we select an element in ChomeDevTools and then go into the console:
 
 ####To get the regular DOM element
-```command
+```shell
 > $0
 
 < <div class="ng-binding">hello</div>
 ```
 
 ####To get angular element
-```command
+```bash
 > angular.element($0)
 
 < [ <div class="ng-binding">hello</div>]
