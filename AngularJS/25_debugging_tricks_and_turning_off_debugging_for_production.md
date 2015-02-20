@@ -1,6 +1,6 @@
 ##Debugging tricks and turning off debugging for production
 * `$compileProvider.debugInfoEnabled(false)` for production
-* get an angular element's scope with `angular.element($0).scope()
+* get an angular element's scope with `angular.element($0).scope()`
 * get an angular element's data bindings with `angular.element($0).data()`
 
 
