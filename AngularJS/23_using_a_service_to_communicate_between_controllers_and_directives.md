@@ -115,3 +115,8 @@ The same is true for `AnotherController` even though this controller is only a s
     {{ appAlertVm.alertService.alertMessage }}
 </alert>
 ```
+
+___
+
+Related notes:
+* [passing alert services into a controller](https://github.com/outboundexplorer/laravel-angular-notes/blob/master/AngularJS/22_passing_alert_services_into_a_controller.md)

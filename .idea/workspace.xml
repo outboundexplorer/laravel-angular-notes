@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/22_passing_alert_services_into_a_controller.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md" afterPath="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md" afterPath="$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,11 +92,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18_using_ng-modules_includes_with_error_message_template.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="18_using_ng-modules_includes_with_error_message_template.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9555035" vertical-offset="484" max-vertical-offset="1440">
+            <state vertical-scroll-proportion="-29.142857" vertical-offset="484" max-vertical-offset="1440">
               <caret line="65" column="182" selection-start-line="65" selection-start-column="182" selection-end-line="65" selection-end-column="182" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="23_using_a_service_to_communicate_between_controllers_and_directives.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9531616" vertical-offset="1606" max-vertical-offset="2540">
+              <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -123,6 +133,7 @@
         <option value="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_to_use_a_common_error_message_template.md" />
         <option value="$PROJECT_DIR$/AngularJS/17_using_ng-messages_to_display_$error_messages.md" />
         <option value="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md" />
+        <option value="$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md" />
       </list>
     </option>
   </component>
@@ -448,8 +459,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9555035" vertical-offset="484" max-vertical-offset="1440">
+        <state vertical-scroll-proportion="-29.142857" vertical-offset="484" max-vertical-offset="1440">
           <caret line="65" column="182" selection-start-line="65" selection-start-column="182" selection-end-line="65" selection-end-column="182" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9531616" vertical-offset="1606" max-vertical-offset="2540">
+          <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
           <folding />
         </state>
       </provider>
