@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md" afterPath="$PROJECT_DIR$/AngularJS/18_using_ng-modules_includes_with_error_message_template.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/21_adding_custom_functionality_to_HTML_attributes.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
