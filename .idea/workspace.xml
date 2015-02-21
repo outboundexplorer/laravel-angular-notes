@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/29_adding_a_text-danger_class_when_textarea_limit_is_close.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/what_happens_when_the_HTML_page_is_loaded.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="13_using_gulp_to_annotate_and_minify.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13_using_gulp_to_annotate_and_minify.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/13_using_gulp_to_annotate_and_minify.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8055236" vertical-offset="0" max-vertical-offset="1520">
+            <state vertical-scroll-proportion="-25.0" vertical-offset="0" max-vertical-offset="1520">
               <caret line="35" column="3" selection-start-line="8" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
               <folding />
             </state>
@@ -40,11 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07_$q.all()_demo_for_retrieving_github_information.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/07_$q.all()_demo_for_retrieving_github_information.md">
+      <file leaf-file-name="30.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AngularJS/30.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="4400">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state vertical-scroll-proportion="-15.714286" vertical-offset="0" max-vertical-offset="600">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="what_happens_when_the_HTML_page_is_loaded.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJS/what_happens_when_the_HTML_page_is_loaded.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.023014959" vertical-offset="0" max-vertical-offset="869">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,6 +177,8 @@
         <option value="$PROJECT_DIR$/AngularJS/23_using_a_service_to_communicate_between_controllers_and_directives.md" />
         <option value="$PROJECT_DIR$/AngularJS/22_passing_alert_services_into_a_controller.md" />
         <option value="$PROJECT_DIR$/AngularJS/25_debugging_tricks_and_turning_off_debugging_for_production.md" />
+        <option value="$PROJECT_DIR$/AngularJS/30.md" />
+        <option value="$PROJECT_DIR$/AngularJS/31.md" />
       </list>
     </option>
   </component>
@@ -616,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/13_using_gulp_to_annotate_and_minify.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8055236" vertical-offset="0" max-vertical-offset="1520">
+        <state vertical-scroll-proportion="-25.0" vertical-offset="0" max-vertical-offset="1520">
           <caret line="35" column="3" selection-start-line="8" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
           <folding />
         </state>
@@ -625,6 +642,28 @@
         <state />
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/30.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.714286" vertical-offset="0" max-vertical-offset="600">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/what_happens_when_the_HTML_page_is_loaded.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023014959" vertical-offset="0" max-vertical-offset="869">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
