@@ -3,6 +3,8 @@
 * include `.ng-cloak` style within `styles.css`
 * dynamically switch class using controller function
 
+ref: AngularJS Up & Running
+
 `ng-cloak` styling is not applied by angular.js until angular.js has finished loading.
 Therefore, if we load the angular.js at the very end of our HTML, the style will not be 
 immediately applied.  Therefore it is often a good idea to include the `.ng-cloak` styles

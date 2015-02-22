@@ -1,5 +1,7 @@
 ##what happens when the HTML page is loaded
 
+ref: AngularJS Up & Running
+
 1. The HTML is loaded. This triggers requests for all the scripts that are a part of it.
 2. After the entire document has been loaded, AngularJS kicks in and looks for the
 ng-app directive.
