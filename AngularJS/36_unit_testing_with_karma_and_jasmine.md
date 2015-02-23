@@ -13,7 +13,6 @@
 
 ...\testlab70\public\angularjs\36>npm install karma
 
-
 ...\testlab70\public\angularjs\36>npm install karma-jasmine karma-chrome-launcher
 
 ...\testlab70\public\angularjs\36>karma init
