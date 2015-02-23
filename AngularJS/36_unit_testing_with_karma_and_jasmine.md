@@ -226,7 +226,10 @@ If we now modify the above `index.php` and `app.js` files to use the `controller
 })();
 ```
 
-We now also must adjust the `MainController.spec.js` file
+We now also must adjust the `MainController.spec.js` file.  This first version, requires $rootScope to be
+injected.  See the second version below for a much cleaner version.
+
+Version 1:
 
 // angularjs/36/test/MainController.spec.js
 describe('Controller: MainController', function(){
@@ -265,5 +268,40 @@ describe('Controller: MainController', function(){
 });
 ```
 
+Version 2:
+
+```javascript
+// angularjs/36/test/MainController.spec.js
+describe('Controller: MainController', function(){
+
+    var controller;
+
+    // Instantiate a new version of my module before each test
+    beforeEach(module('app'));
+
+    // Before each test, instantiate a new instance of the controller
+    beforeEach(inject(function($controller){
+        controller = $controller('MainController');
+    }));
+
+    // First Unit Test
+    it('should have values available on load', function(){
+        expect(controller.value).toBe(0);
+        expect(controller.maxValue).toBe(3);
+    });
+
+    // Second Unit Test
+    it('increments as expected', function(){
+        controller.incrementValue();
+        expect(controller.value).toBe(1);
+        controller.incrementValue();
+        expect(controller.value).toBe(2);
+        controller.incrementValue();
+        expect(controller.value).toBe(3);
+        controller.incrementValue();
+        expect(controller.value).toBe(0);
+    });
+});
+```
 
 
