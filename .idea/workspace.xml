@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md" afterPath="$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md" afterPath="$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md" afterPath="$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md" afterPath="$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,8 +121,8 @@
       <file leaf-file-name="31_data_binding_with{{data.model }}or_ng-bind.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7301038" vertical-offset="733" max-vertical-offset="1600">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.4463668" vertical-offset="193" max-vertical-offset="1600">
+              <caret line="29" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -922,8 +919,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7301038" vertical-offset="733" max-vertical-offset="1600">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.4463668" vertical-offset="193" max-vertical-offset="1600">
+          <caret line="29" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
           <folding />
         </state>
       </provider>
