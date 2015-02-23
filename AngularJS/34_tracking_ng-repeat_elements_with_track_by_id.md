@@ -102,7 +102,7 @@ reuses DOM elements even if we fetch the data multiple times from the server.
 ```
 
 ```
->>>
+OUTPUT >>>
 
 <Change Notes>
 

@@ -70,7 +70,7 @@ ref: AngularJS Up & Running
 ```
 
 ```
->>>
+OUTPUT >>>
 
 First Element: true
 Middle Element: false

@@ -79,7 +79,7 @@ Note that when output the objects are sorted into alphabetical order with the
 uppercase letters taking precedence over lowercase letters.
 
 ```
->>> 
+OUTPUT >>> 
 
 Second Note John
 {"id":2,"label":"Second Note","done":false}

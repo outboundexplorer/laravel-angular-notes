@@ -70,7 +70,7 @@ specify the start of the repeat template using `ng-repeat-start` and `ng-repeat-
 
 
 ```
->>>
+OUTPUT >>>
 
 First Note
 Done: false

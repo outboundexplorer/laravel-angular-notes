@@ -99,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-17.392857" vertical-offset="1593" max-vertical-offset="2460">
-              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -108,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="35_using_ng-repeat-start_and_ng-repeat-end.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="35_using_ng-repeat-start_and_ng-repeat-end.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.899654" vertical-offset="660" max-vertical-offset="1720">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state vertical-scroll-proportion="-27.857143" vertical-offset="660" max-vertical-offset="1720">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -121,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="31_data_binding_with{{data.model }}or_ng-bind.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="31_data_binding_with{{data.model }}or_ng-bind.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="22.607143" vertical-offset="733" max-vertical-offset="1600">
+            <state vertical-scroll-proportion="-0.7301038" vertical-offset="733" max-vertical-offset="1600">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
@@ -137,8 +137,8 @@
       <file leaf-file-name="33_working_with_the_helper_functions_in_ng-repeat.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.428572" vertical-offset="700" max-vertical-offset="2240">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state vertical-scroll-proportion="-13.571428" vertical-offset="1060" max-vertical-offset="2240">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -150,8 +150,8 @@
       <file leaf-file-name="32_ng-repeat_over_an_object.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.285715" vertical-offset="960" max-vertical-offset="2000">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state vertical-scroll-proportion="-21.428572" vertical-offset="1020" max-vertical-offset="2000">
+              <caret line="81" column="7" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -182,8 +182,8 @@
         <option value="$PROJECT_DIR$/AngularJS/31.md" />
         <option value="$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md" />
         <option value="$PROJECT_DIR$/AngularJS/what_happens_when_the_HTML_page_is_loaded.md" />
-        <option value="$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md" />
         <option value="$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md" />
+        <option value="$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md" />
         <option value="$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md" />
         <option value="$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md" />
       </list>
@@ -832,17 +832,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.392857" vertical-offset="1593" max-vertical-offset="2460">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/28_catching_errors_with_$exceptionHandler.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="31.892857" vertical-offset="893" max-vertical-offset="1760">
@@ -887,10 +876,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md">
+    <entry file="file://$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.285715" vertical-offset="960" max-vertical-offset="2000">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state vertical-scroll-proportion="-27.857143" vertical-offset="660" max-vertical-offset="1720">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.392857" vertical-offset="1593" max-vertical-offset="2460">
+          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -900,8 +900,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.428572" vertical-offset="700" max-vertical-offset="2240">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state vertical-scroll-proportion="-13.571428" vertical-offset="1060" max-vertical-offset="2240">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.428572" vertical-offset="1020" max-vertical-offset="2000">
+          <caret line="81" column="7" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -911,19 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.607143" vertical-offset="733" max-vertical-offset="1600">
+        <state vertical-scroll-proportion="-0.7301038" vertical-offset="733" max-vertical-offset="1600">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/35_using_ng-repeat-start_and_ng-repeat-end.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.899654" vertical-offset="660" max-vertical-offset="1720">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding />
         </state>
       </provider>
