@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" afterPath="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="13_using_gulp_to_annotate_and_minify.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/13_using_gulp_to_annotate_and_minify.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="700" max-vertical-offset="1520">
-              <caret line="35" column="3" selection-start-line="8" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="30.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/30.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +105,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="31_data_binding_with{{data.model }}or_ng-bind.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="31_data_binding_with{{data.model }}or_ng-bind.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4463668" vertical-offset="193" max-vertical-offset="1600">
+            <state vertical-scroll-proportion="-13.821428" vertical-offset="193" max-vertical-offset="1600">
               <caret line="29" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="36_unit_testing_with_karma_and_jasmine.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43829295" vertical-offset="0" max-vertical-offset="5520">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -183,6 +183,7 @@
         <option value="$PROJECT_DIR$/AngularJS/34_tracking_ng-repeat_elements_with_track_by_id.md" />
         <option value="$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md" />
         <option value="$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md" />
+        <option value="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" />
       </list>
     </option>
   </component>
@@ -372,17 +373,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="1600">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="2240">
@@ -919,8 +909,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/31_data_binding_with{{data.model }}or_ng-bind.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4463668" vertical-offset="193" max-vertical-offset="1600">
+        <state vertical-scroll-proportion="-13.821428" vertical-offset="193" max-vertical-offset="1600">
           <caret line="29" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43829295" vertical-offset="0" max-vertical-offset="5520">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>

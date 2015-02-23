@@ -8,6 +8,7 @@
 
 
 ####Setup procedure
+```
 ...\testlab70>npm install -g karma-cli
 
 ...\testlab70\public\angularjs\36>npm install karma
@@ -16,6 +17,7 @@
 ...\testlab70\public\angularjs\36>npm install karma-jasmine karma-chrome-launcher
 
 ...\testlab70\public\angularjs\36>karma init
+```
 
 Notes for karma.conf.js
 1) The angular.min.js and angular-mocks.js files should be included
