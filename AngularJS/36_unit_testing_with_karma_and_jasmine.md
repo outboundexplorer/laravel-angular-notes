@@ -5,7 +5,7 @@
 * writing a simple controller test
 * testing `controller as` with jasmine
 
-
+Source: AngularJS Up & Running
 
 ####Setup procedure
 ```
