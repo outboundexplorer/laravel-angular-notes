@@ -122,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.55235904" vertical-offset="0" max-vertical-offset="869">
-              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -895,7 +895,7 @@
     <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55235904" vertical-offset="0" max-vertical-offset="869">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
