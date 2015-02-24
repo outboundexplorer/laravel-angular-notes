@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/45_injecting_the_$log_service_into_the_controller.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,19 +44,6 @@
         <entry file="file://$PROJECT_DIR$/AngularJS/29_adding_a_text-danger_class_when_textarea_limit_is_close.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1660">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="28_catching_errors_with_$exceptionHandler.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AngularJS/28_catching_errors_with_$exceptionHandler.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1760">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -118,11 +105,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="36_unit_testing_with_karma_and_jasmine.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="36_unit_testing_with_karma_and_jasmine.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27617952" vertical-offset="140" max-vertical-offset="6260">
+            <state vertical-scroll-proportion="-8.571428" vertical-offset="140" max-vertical-offset="6260">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="should_my_functionality_go_in_a_controller_or_in_a_service.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.046029918" vertical-offset="0" max-vertical-offset="869">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -184,6 +184,7 @@
         <option value="$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md" />
         <option value="$PROJECT_DIR$/AngularJS/32_ng-repeat_over_an_object.md" />
         <option value="$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md" />
+        <option value="$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md" />
       </list>
     </option>
   </component>
@@ -373,17 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AngularJS/33_working_with_the_helper_functions_in_ng-repeat.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="2240">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/17_using_ng-messages_to_display_$error_messages.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="1580">
@@ -893,8 +883,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/36_unit_testing_with_karma_and_jasmine.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27617952" vertical-offset="140" max-vertical-offset="6260">
+        <state vertical-scroll-proportion="-8.571428" vertical-offset="140" max-vertical-offset="6260">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046029918" vertical-offset="0" max-vertical-offset="869">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>
