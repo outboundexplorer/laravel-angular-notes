@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md" afterPath="$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md" />
     </list>
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,8 +121,8 @@
       <file leaf-file-name="should_my_functionality_go_in_a_controller_or_in_a_service.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.046029918" vertical-offset="0" max-vertical-offset="869">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.55235904" vertical-offset="0" max-vertical-offset="869">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -894,8 +894,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS/should_my_functionality_go_in_a_controller_or_in_a_service.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.046029918" vertical-offset="0" max-vertical-offset="869">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.55235904" vertical-offset="0" max-vertical-offset="869">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding />
         </state>
       </provider>
