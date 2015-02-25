@@ -98,7 +98,6 @@ source: AngularJS Up & Running Pg101
             return deferred.promise;
         }
 
-
         // Version 1
         //
         function addProduct(){
@@ -107,6 +106,7 @@ source: AngularJS Up & Running Pg101
                 .post('http://testlab70/products',service.newProduct)
                 .success(function(data){
                     service.message = data;
+                    service.products.push(service.newProduct);
                     deferred.resolve(data);
                     //console.log('service: data message from server', data);
                 })
@@ -116,7 +116,6 @@ source: AngularJS Up & Running Pg101
             return deferred.promise;
         }
         */
-
 
         // Version 2
         //
@@ -138,6 +137,7 @@ source: AngularJS Up & Running Pg101
             return $http
                 .post('http://testlab70/products',service.newProduct)
                 .success(function(data){
+                    service.products.push(service.newProduct); // added
                     //console.log('service: data message from server',data);
                 })
                 .error(function(){
@@ -152,7 +152,6 @@ source: AngularJS Up & Running Pg101
         vm.products = [];
         vm.newProduct = {};
         vm.message = '';
-
 
         /*
         // Version 1
@@ -174,7 +173,6 @@ source: AngularJS Up & Running Pg101
             DataService.newProduct = newProduct;
             DataService.addProduct()
                 .then(function(message){
-                    vm.products.push(newProduct);
                     vm.message = message;
                     vm.newProduct = {};
                     //console.log('controller: success data message from server',vm.message);
@@ -205,7 +203,6 @@ source: AngularJS Up & Running Pg101
             DataService.newProduct = newProduct;
             DataService.addProduct()
                 .success(function(data){
-                    vm.products.push(newProduct);
                     vm.message = data;
                     vm.newProduct = {};
                     //console.log('controller: success data message from server', data)
@@ -218,8 +215,6 @@ source: AngularJS Up & Running Pg101
 
         vm.getProducts();
     }
-
-
 
     function MyLoggingInterceptor($q){
         return {
