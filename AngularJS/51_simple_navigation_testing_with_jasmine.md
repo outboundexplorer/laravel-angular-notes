@@ -1,5 +1,7 @@
 ##simple navigation testing with jasmine
 * checking that the `$location.path` is correct
+* getting started with `karma` and `jasmine`
+* pay attention to use `/` for file path instead of native `\` for windows system
 
 ```
 ...angularjs/51> npm install karma karma-jasmine karma-chrome-launcher
