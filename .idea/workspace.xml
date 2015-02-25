@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS/50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md" afterPath="$PROJECT_DIR$/AngularJS/50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md" />
-    </list>
+    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="" />
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -105,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="51_simple_navigation_testing_with_jasmine.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="51_simple_navigation_testing_with_jasmine.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularJS/51_simple_navigation_testing_with_jasmine.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.142858" vertical-offset="0" max-vertical-offset="3720">
+            <state vertical-scroll-proportion="-2.5836217" vertical-offset="2580" max-vertical-offset="3720">
               <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding />
             </state>
@@ -118,10 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularJS/50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0692042" vertical-offset="3833" max-vertical-offset="5700">
+            <state vertical-scroll-proportion="-33.107143" vertical-offset="3833" max-vertical-offset="5700">
               <caret line="238" column="5" selection-start-line="238" selection-start-column="5" selection-end-line="238" selection-end-column="5" />
               <folding />
             </state>
@@ -331,7 +329,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -884,10 +882,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/51_simple_navigation_testing_with_jasmine.md">
+    <entry file="file://$PROJECT_DIR$/AngularJS/50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.142858" vertical-offset="0" max-vertical-offset="3720">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state vertical-scroll-proportion="-33.107143" vertical-offset="3833" max-vertical-offset="5700">
+          <caret line="238" column="5" selection-start-line="238" selection-start-column="5" selection-end-line="238" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -895,10 +893,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJS/50_using_an_array_to_hold_objects_returned_by_a_factory_service_with_$http.md">
+    <entry file="file://$PROJECT_DIR$/AngularJS/51_simple_navigation_testing_with_jasmine.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0692042" vertical-offset="3833" max-vertical-offset="5700">
-          <caret line="238" column="5" selection-start-line="238" selection-start-column="5" selection-end-line="238" selection-end-column="5" />
+        <state vertical-scroll-proportion="-2.5836217" vertical-offset="2580" max-vertical-offset="3720">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
       </provider>
