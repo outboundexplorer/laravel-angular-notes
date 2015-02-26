@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/52_inline_mocking_the_injection_of_services_into_the_controller.md" />
-    </list>
+    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="" />
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
