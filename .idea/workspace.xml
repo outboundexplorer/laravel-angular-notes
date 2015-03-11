@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJS/68_end_to_end_testing_with_protractor.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mixed/69_CSRF_TOKEN_authentication_with_laravel_and_angularjs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="969ab75d-a17e-4619-acb0-c573fb326585" name="Default" comment="" />
     <ignored path="laravel-angular-notes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
